@@ -1,0 +1,126 @@
+.bg-voilet{
+  background-color:rgb(108, 26, 133);
+}
+
+.logo
+{
+  padding:80px;
+}
+
+.heading
+{
+  display: flex;
+  align-items: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  justify-content: center;
+  align-content: center;
+  color: rgb(109, 10, 129);
+}
+
+.form-content
+{
+  border: 8px solid rgb(116, 6, 160);
+  padding: 40px;
+  margin: 20px;
+  display: flex;
+  border-style: double;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-bottom: 30px;
+}
+
+.label
+{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+  font-size: larger;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 10px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.input-text
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 70%;
+  padding: 8px 8px;
+  margin: 8px ;
+  display: inline-block;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 2px solid rgb(116, 6, 160);
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+ 
+.input-text-um
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 20%;
+  padding: 8px 20px;
+  margin: 8px;
+  display: inline-block;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 2px solid rgb(116, 6, 160);
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+
+.button
+{
+  font-size: larger;
+  font-weight: bold;
+  margin-left: 600%;
+  padding: 1px 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body
+{
+  background-color: #f7f0f7;
+}
+
+.dropdown
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 25%;
+  margin: 1px;
+  padding: 8px 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+  margin-right: 50px;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+  margin-right: 20px;
+}
+
+button.margin-right {
+  font-size: larger;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  justify-content: center;
+  margin-right: 20px;
+}
+
+.cancel
+{
+  font-weight: bold;
+  font-size: larger;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
